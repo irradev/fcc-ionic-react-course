@@ -1,0 +1,13 @@
+/*
+'ion-icon[part]' is not supported by Firefox for Android.
+*/
+
+ion-item:part(detail-icon) {
+  color: #ff6347;
+  opacity: 1;
+}
+
+/* .item-detail-icon {
+  opacity: 1;
+  color: #ff6347;
+} */

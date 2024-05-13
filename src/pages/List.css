@@ -1,0 +1,9 @@
+/* 
+  Working with css variables is the way of modifying or inject CSS styles 
+  in Ionic components at Shadow Dom 
+*/
+
+ion-item:hover {
+  --background: var(--ion-color-primary);
+  --color: var(--ion-color-primary-contrast);
+}
